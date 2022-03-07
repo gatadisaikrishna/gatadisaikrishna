@@ -1,1 +1,3 @@
-saikrishna
+git status      to check status of changes og git local
+git push origin -u branch name          ---------- to create branch on remote and local
+git push origin -d branch name          ---------- to delete branch on remote and local repository
